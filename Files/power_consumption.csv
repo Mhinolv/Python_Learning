@@ -1,0 +1,9 @@
+item,powerType,voltage,usageTime,consumptionWattage,total_consumption,total_amperage,percentage_of_power,charge_time
+LAPTOP,W,110,60.0,76.0,76.0,0.7,0.035,20.7
+NUTRIBULLET,W,110,2.0,600.0,20.0,5.5,0.009,5.5
+KEYBOARD,W,110,30.0,13.0,6.5,0.1,0.003,1.8
+BOUGERV FRIDGE,W,12,1200.0,36.0,720.0,3.0,0.327,196.4
+MICROWAVE,W,110,3.0,700.0,35.0,6.4,0.016,9.5
+LED LIGHTS,W,110,90.0,43.0,64.5,0.4,0.029,17.6
+PHONE,W,110,60.0,48.0,48.0,0.4,0.022,13.091
+PC,W,110,60.0,330.0,330.0,3.0,0.15,90.0
